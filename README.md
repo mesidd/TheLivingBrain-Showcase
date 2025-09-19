@@ -43,6 +43,6 @@ This is an ongoing R&D project. The core reasoning engine and proprietary algori
 
 The "Living Brain" is the beginning of a new conversation about the future of AI. For collaboration, inquiries, or to discuss the architecture in greater depth, I invite you to connect with me.
 
-**<a href="https://www.linkedin.com/" target="_blank">LinkedIn</a> | [Email](mailto:siddhartha1234sharma@gmail.com)**
+**[LinkedIn](https://www.linkedin.com/in/itsmesidd) | [Email](mailto:siddhartha1234sharma@gmail.com)**
 
 ---
