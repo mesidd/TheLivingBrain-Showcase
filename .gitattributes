@@ -1,0 +1,20 @@
+# Ensure consistent line endings across platforms
+* text=auto
+
+# Explicitly enforce LF for Markdown and text files
+*.md text eol=lf
+*.txt text eol=lf
+
+# PDFs and images should always be treated as binary (no line-ending changes)
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.svg binary
+
+# Don’t normalize archives or other binaries
+*.zip binary
+*.tar binary
+*.gz binary
+*.7z binary
