@@ -2,6 +2,8 @@
 ### Foundational Cognitive Architecture For A Self-Evolving Digital Mind
 ---
 
+<img width="1000" alt="Screenshot 2025-09-14 at 12 08 12 PM" src="https://github.com/user-attachments/assets/13a51bf2-9991-40eb-9c4a-417f48ad0c85" />
+
 ## The Vision: Architecting a Mind That Thinks
 
 > "The contemporary AI landscape... is fundamentally limited by a retrieval-based paradigm... This paper introduces the Living Brain, a novel cognitive architecture designed to bridge this gap... This work serves as a blueprint for the next generation of AI-systems designed not merely to process information, but to become our partners in thought."
@@ -34,7 +36,7 @@ The final faculty is the spark of genius. This engine was designed to find the h
 
 **[Insert your best screenshot of the Da Vinci Engine's "Pen vs. Apple" analogy here]**
 
-*The result: The engine proved its ability to function as a "serendipity machine," generating the interesting questions and profound analogies that are the very seeds of innovation.*
+### The result: The engine proved its ability to function as a "serendipity machine," generating the interesting questions and profound analogies that are the very seeds of innovation.
 ---
 
 ## Project Status & The Conversation
@@ -46,3 +48,7 @@ The "Living Brain" is the beginning of a new conversation about the future of AI
 **[LinkedIn](https://www.linkedin.com/in/itsmesidd) | [Email](mailto:siddhartha1234sharma@gmail.com)**
 
 ---
+
+## Note on the Implementation
+
+The code for this project was written with a single, guiding purpose: to serve as a rapid and robust proof-of-concept for a new cognitive architecture. My focus was on architectural innovation, not premature code optimization. The current implementation is a successful prototype, and I invite the great engineers of the world to build upon this foundation and help forge it into an industrial-grade masterpiece.
