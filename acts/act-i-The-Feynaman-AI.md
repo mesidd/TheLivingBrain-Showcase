@@ -10,7 +10,7 @@ Feynman famously believed that you do not truly understand something until you c
 
 This became the first law of my new kingdom: an AI must not just *know*; it must *understand*.
 
-### The First Experiment: Forging a Mind of Clarity
+### The Royal Experiment: Forging a Mind of Clarity
 
 To test this principle, I built the Feynman AI. Its mission was not to be an encyclopedia, but to be a student who could read a single, complex text and demonstrate a deep, causal comprehension of its contents.
 
@@ -22,7 +22,7 @@ The chosen text was an article detailing the early history of Instagram and the 
 
 #### **Question 1: The Test of Recall (The "What")**
 
-The first question was simple, testing the AI's ability to recall a fact from the text. It took only 1 minute 23 seconds to generate an answer to ‘What’.
+The first question was simple, testing the AI's ability to recall a fact from the text. It took only 1 minute 29 seconds to generate an answer to ‘What’.
 
 <img width="1200"  alt="Question_What" src="https://github.com/user-attachments/assets/8087bffb-8717-4a45-90ed-a76bb91a370f" />
 
@@ -42,4 +42,4 @@ To achieve this, the Feynman AI was architected with a dual-memory brain: a fast
 
 The results were profound. The engine answered both questions perfectly. It demonstrated a leap from simple, keyword-based retrieval to a genuine, human-like comprehension of a text.
 
-This was the first proof of concept for the "Living Brain." It was the first time the machine moved beyond just processing data and took its first, small step towards true understanding.
+This was the first proof of concept for the "The Living Brain." It was the first time the machine moved beyond just processing data and took its first, small step towards true understanding.
