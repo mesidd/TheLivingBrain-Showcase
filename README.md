@@ -1,16 +1,15 @@
 # The Living Brain: A Trilogy of Cognition
 ### Foundational Cognitive Architecture For A Self-Evolving Digital Mind
----
 
-<img width="1000" alt="Screenshot 2025-09-14 at 12 08 12 PM" src="https://github.com/user-attachments/assets/13a51bf2-9991-40eb-9c4a-417f48ad0c85" />
+<img width="2048" alt="Self Evolving Digital Mind" src="https://github.com/user-attachments/assets/13a51bf2-9991-40eb-9c4a-417f48ad0c85" />
 
-## The Vision: Architecting a Mind That Thinks
+## The Vision: Architecting A Mind That Thinks
 
 > "The contemporary AI landscape... is fundamentally limited by a retrieval-based paradigm... This paper introduces the Living Brain, a novel cognitive architecture designed to bridge this gap... This work serves as a blueprint for the next generation of AI-systems designed not merely to process information, but to become our partners in thought."
 
 ---
 
-## The Trilogy of Cognition: A Showcase of a Mind in Action
+## The Trilogy of Cognition: Showcase of a Mind in Action
 
 This architecture was built and tested in three sequential acts, each demonstrating a new faculty of thought.
 
@@ -36,12 +35,13 @@ The final faculty is the spark of genius. This engine was designed to find the h
 
 **[Insert your best screenshot of the Da Vinci Engine's "Pen vs. Apple" analogy here]**
 
-### The result: The engine proved its ability to function as a "serendipity machine," generating the interesting questions and profound analogies that are the very seeds of innovation.
+---
+### Result: The engine proved its ability to function as a "serendipity machine," generating the interesting questions and profound analogies that are the very seeds of innovation.
 ---
 
 ## Project Status & The Conversation
 
-This is an ongoing R&D project. The core reasoning engine and proprietary algorithms are private. This repository contains the public-facing interface and selected case studies for demonstration.
+This is an ongoing R&D project. The core reasoning engine and proprietary algorithms are private. This repository contains the public-facing interface and selected case studies for demonstration. For a complete overview of the concepts and findings, please refer to the accompanying paper (PDF).
 
 The "Living Brain" is the beginning of a new conversation about the future of AI. For collaboration, inquiries, or to discuss the architecture in greater depth, I invite you to connect with me.
 
