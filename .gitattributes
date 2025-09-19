@@ -18,3 +18,8 @@
 *.tar binary
 *.gz binary
 *.7z binary
+
+# HTML or web-related files (if you add showcase pages later) → LF endings
+*.html text eol=lf
+*.css  text eol=lf
+*.js   text eol=lf
