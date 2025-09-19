@@ -40,13 +40,13 @@ The engine first deconstructed both arguments, mapping their core points of tens
 #### Antithesis Table Representation
 <img width="1466" height="996" alt="antithesis_table" src="https://github.com/user-attachments/assets/75941643-3a41-4dc7-a574-f65677ffcc23" />
 
-
 It then performed its two-stage dialectical reasoning process, first analyzing the conflict and then generating a new, unified perspective.
 
-`![Hegel Synthesis Response](link_to_your_hegel_synthesis_response.png)`
+## Result
+<img width="1542" height="1670" alt="Result_1" src="https://github.com/user-attachments/assets/cb1ffcfc-639e-4296-ab97-1e1a8cd2355c" />
+<img width="1542" height="1050" alt="Result_2" src="https://github.com/user-attachments/assets/16956adb-479f-45e2-ac71-4ed84407aac3" />
 
-
-### The King's Verdict: An Oracle of Strategy
+### Verdict: An Oracle of Strategy
 
 The result was a profound success. The Hegel AI did not just compromise; it created wisdom. It produced a sophisticated "Double-Edged Sword" synthesis with actionable, strategic solutions that were not explicitly present in either source text.
 
