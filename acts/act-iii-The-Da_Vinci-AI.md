@@ -1,4 +1,4 @@
-# Act III: The Da Vinci's AI — From Structure to Creative Serendipity
+# Act III: The Da Vinci AI — From Structure to Creative Serendipity
 
 ### The Visionary's Mandate: The Genius of Da Vinci
 
