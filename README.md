@@ -17,23 +17,25 @@ This architecture was built and tested in three sequential acts, each demonstrat
 
 The first faculty of a true mind is not to know, but to *understand*. This engine was tested on its ability to perform deep, causal reasoning on a single, complex text.
 
-**[Insert your best screenshot of the Feynman AI's output here]**
-
 *The result: The engine successfully moved beyond simple keyword retrieval to build a true bridge of logic, demonstrating a leap from data recall to genuine comprehension.*
+
+[Further Explanation](https://github.com/mesidd/TheLivingBrain-Showcase/blob/main/acts/act-i-The-Feynaman-AI.md)
 
 ### Act II: The Hegel AI — From Conflict to Wisdom
 
 The second faculty is to create harmony from chaos. This engine was tasked with synthesizing a novel, higher-order perspective from two diametrically opposed viewpoints.
 
-**[Insert your best screenshot of the Hegel AI's "Double-Edged Sword" synthesis here]**
-
 *The result: The engine successfully transformed the noise of debate into the signal of wisdom, architecting a balanced and actionable strategic framework.*
+
+[Further Explanation](https://github.com/mesidd/TheLivingBrain-Showcase/blob/main/acts/act-ii-The-Hegel-AI.md)
 
 ### Act III: The Da Vinci AI — From Structure to Creativity
 
 The final faculty is the spark of genius. This engine was designed to find the hidden, structural analogies between completely unrelated worlds.
 
-**[Insert your best screenshot of the Da Vinci Engine's "Pen vs. Apple" analogy here]**
+*The result: The engine proved its ability to function as a "serendipity machine," generating the interesting questions and profound analogies that are the very seeds of innovation.*
+
+[Further Explanation](https://github.com/mesidd/TheLivingBrain-Showcase/blob/main/acts/act-iii-The-Da_Vinci-AI.md)
 
 ---
 ### Result: The engine proved its ability to function as a "serendipity machine," generating the interesting questions and profound analogies that are the very seeds of innovation.
@@ -41,7 +43,7 @@ The final faculty is the spark of genius. This engine was designed to find the h
 
 ## Project Status & The Conversation
 
-This is an ongoing R&D project. The core reasoning engine and proprietary algorithms are private. This repository contains the public-facing interface and selected case studies for demonstration. For a complete overview of the concepts and findings, please refer to the accompanying paper (PDF).
+This is an ongoing R&D project. The core reasoning engine and proprietary algorithms are private. This repository contains the public-facing interface and selected case studies for demonstration. For the full exposition of concepts, methodology, and results, see the [Paper.](https://github.com/mesidd/TheLivingBrain-Showcase/blob/main/paper/The_Living-Brain-Palace-SS.pdf)
 
 The "Living Brain" is the beginning of a new conversation about the future of AI. For collaboration, inquiries, or to discuss the architecture in greater depth, I invite you to connect with me.
 
