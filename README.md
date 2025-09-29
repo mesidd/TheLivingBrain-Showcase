@@ -17,7 +17,7 @@ This is not a scaling problem; it is an architectural problem.
 
 This project introduces "The Living Brain," a novel cognitive architecture designed to bridge this gap. It is a blueprint for the next generation of AI systems—designed not merely to process information, but to become our partners in thought.
 
-## The Architecture:
+## The Architecture
 
 This is a neuro-symbolic system that consciously mirrors the dual-process nature of human cognition, uniting the intuitive, "fast thinking" of System 1 with the structured, "slow thinking" of System 2.
 
