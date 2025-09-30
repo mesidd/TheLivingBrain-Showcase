@@ -1,14 +1,18 @@
+#### Truth is found neither in the thesis nor the antithesis, but in an emergent synthesis which reconciles the two - Wilhelm Friedrich Hegel
+
 <img height="800" width="1200" alt="Friedrich Hegel" src="https://github.com/user-attachments/assets/d97841f1-4cfd-4585-8fff-16af2b63f8a3" />
 
 # Act II: The Hegel AI — From Conflict to Emergent Wisdom
 
->Truth is found neither in the thesis nor the antithesis, but in an emergent synthesis which reconciles the two - Friedric Hegel.
+---
 
 # Experiment: Forging Wisdom from Debate
 
 Once a mind learns to understand, it must face its greatest challenge: conflict.
 
 The world is not a single text, but a chaotic symphony of opposing viewpoints. The German philosopher Georg Hegel proposed a profound method for navigating this chaos: the Dialectic. He taught that from the clash of a **Thesis** and its **Antithesis**, a new and higher truth—a **Synthesis**—could be born.
+
+---
 
 ➡️ **Second Law of The Living Brain:** *AI must not just analyze; it must transcend it.*
 
