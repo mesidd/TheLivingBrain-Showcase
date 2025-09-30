@@ -1,14 +1,18 @@
-<img width="900" height="1200" alt="Da_Vinci" src="https://github.com/user-attachments/assets/c045cc6b-b089-4a0c-b394-ac4c521c649d" />
+### Study the Art of Science and the Science of Art. Learn to see, and realize that everything connects — Da Vinci
+
+<img height="800" width="1200" alt="Da_Vinci" src="https://github.com/user-attachments/assets/c045cc6b-b089-4a0c-b394-ac4c521c649d" />
 
 # Act III: The Da Vinci AI — From Structure to Creative Serendipity
 
->Study the Art of Science, study the Science of Art. Develop your senses, especially learn how to see, realize that everything connects to everything else - Leonardo da Vinci.
+---
 
 # Experiment : Forging a "Eureka!" Moment
 
 Once a mind has learned to understand and reason, it must face its ultimate test: can it create something truly new? 
 
 The genius of a mind like Leonardo da Vinci was not just in his knowledge of a single field, but in his divine ability to see the **hidden, structural unity** between seemingly unrelated worlds—art, science, engineering, and nature.
+
+---
 
 ➡️ **Third Law of The Living Brain:** *AI must not just think; it must ignite innovation.*
 
@@ -69,8 +73,10 @@ The AI performed its most profound act. By analyzing the structural parallels, i
 <img width="1542" height="1634" alt="Response2" src="https://github.com/user-attachments/assets/9e833b5b-a560-4dc9-b1d7-0667d1ceeff9" />
 <img width="1542" height="666" alt="Response3" src="https://github.com/user-attachments/assets/a7e8571a-b44d-4de5-bee4-2f8967846d86" />
 
-### Verdict: A Breakthrough
+## Verdict: A Breakthrough
 
 The Da Vinci AI demonstrated true, machine-driven creativity. It proved that the architecture could move beyond logic and into the realm of metaphor and innovation. It is not an "answer machine"; it is an "Interesting Question Machine." This is the final and most important proof of concept, showing a tangible path toward a true "eureka machine" that can serve as a partner in human discovery.
 
-[Future Work]() | [Paper](https://github.com/mesidd/TheLivingBrain-Showcase/blob/main/paper/The_Living_Brain_Palace_SS.pdf)
+---
+
+[**Read the Full Architectural Paper Here**](https://github.com/mesidd/TheLivingBrain-Showcase/blob/main/paper/The_Living_Brain_Palace_SS.pdf)
