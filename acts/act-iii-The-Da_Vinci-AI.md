@@ -79,4 +79,4 @@ The Da Vinci AI demonstrated true, machine-driven creativity. It proved that the
 
 ---
 
-[**Read the Full Architectural Paper Here**](https://github.com/mesidd/TheLivingBrain-Showcase/blob/main/paper/The_Living_Brain_Palace_SS.pdf)
+📄 [**Read the Full Architectural Paper Here**](https://github.com/mesidd/TheLivingBrain-Showcase/blob/main/paper/The_Living_Brain_Palace_SS.pdf)
