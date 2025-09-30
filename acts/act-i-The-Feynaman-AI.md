@@ -37,7 +37,7 @@ Test whether the architecture could move beyond simple factual recall (the *what
 
 ---
 
-##  The Architectural Brief                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+## The Architectural Brief      
 
 **Core Engine**  
 - **The Living Brain** (*Sovereign Core – Ollama / Llama 3*)  
@@ -76,3 +76,5 @@ The second question was more complex, testing the AI’s ability to connect two 
 ### Verdict: Success
 
 The Feynman AI demonstrated a clear, verifiable leap from simple information retrieval to genuine, human-like comprehension. It proved that the dual-brain architecture could serve as a reliable foundation for a mind that can be trusted.
+
+[Next: Act II](https://github.com/mesidd/TheLivingBrain-Showcase/blob/main/acts/act-ii-The-Hegel-AI.md)
