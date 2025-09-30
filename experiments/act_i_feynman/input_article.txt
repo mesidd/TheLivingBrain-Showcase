@@ -1,0 +1,10 @@
+Have you ever noticed whenever we make a plan, we always try to keep it perfect ?
+Whether it’s our career path, a fitness routine, writing codes, building projects, or personal work, we waste a lot of time on non-essential details to make it flawless.
+This is what we call premature optimisation - the act of trying to perfect something too early.
+If you remember the principle Regression Towards The Mean (RTTM), it says things often revert towards the mean. But we plan always keeping the extreme results in mind.
+Here is an example of Instagram’s early infrastructure issues:
+Before the launch of Instagram, the team focused heavily on perfecting photo filters and user experience, spending a lot of time on it.
+When Instagram launched, its user base grew exponentially. But the backend couldn't scale quickly, unable to handle, caused frequent crashes of the app.
+As a result, the team had to rebuild their backend infrastructure, which took significant time and effort.
+That does not mean we should stop planning, but there should be a limit on optimisation.
+We should start with something simple, evolve over time, and use real-world experiences, not theoretical expectations.
