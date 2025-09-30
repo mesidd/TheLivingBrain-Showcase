@@ -73,4 +73,4 @@ The AI performed its most profound act. By analyzing the structural parallels, i
 
 The Da Vinci AI demonstrated true, machine-driven creativity. It proved that the architecture could move beyond logic and into the realm of metaphor and innovation. It is not an "answer machine"; it is an "Interesting Question Machine." This is the final and most important proof of concept, showing a tangible path toward a true "eureka machine" that can serve as a partner in human discovery.
 
-[Future Work]()
+[Future Work]() | [Paper](https://github.com/mesidd/TheLivingBrain-Showcase/blob/main/paper/The_Living_Brain_Palace_SS.pdf)
