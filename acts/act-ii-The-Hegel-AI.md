@@ -27,8 +27,7 @@ The **Hegel AI** was provided with two articles on the role of social media:
 **Architectural Deconstruction:**
 The engine first mapped the core arguments and points of tension from both texts into its **Logical Brain (Neo4j)** knowledge graph.
 
-**Results :**  
-The AI performed a **two-stage dialectical reasoning process**:  
+**Results :** The AI performed a **two-stage dialectical reasoning process**:  
 1. **Deconstruction** → Identified core conflicts and opposing claims.  
 2. **Synthesis** → Generated a sophisticated *"Double-Edged Sword"* perspective that:  
    - Proposed actionable, nuanced solutions  
@@ -52,10 +51,10 @@ The AI performed a **two-stage dialectical reasoning process**:
 * **The Thesis:** An article portraying social media as a transformative force for good.
 * **The Antithesis:** An article portraying social media as a source of division and cultural decay.
 
-#### >Thesis
+#### Thesis:
 <img width="1542" height="1220" alt="Thesis_Input" src="https://github.com/user-attachments/assets/b34b8a74-6144-47b1-9cef-27e804648e8d" />
 
-#### >Antithesis
+#### Antithesis:
 <img width="1542" height="1220" alt="Antithesis_Input" src="https://github.com/user-attachments/assets/7e0439ae-388f-46ff-a7a8-717b4463e3ad" />
 
 ---
