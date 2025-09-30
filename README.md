@@ -38,3 +38,5 @@ My work is a call to action for a more thoughtful, integrated, and philosophical
 **[LinkedIn](https://www.linkedin.com/in/siddhartha-sharma-ai) | [Email](mailto:siddhartha1234sharma@gmail.com)**
 
 ---
+
+Next: [Act - I: The Feynman AI](https://github.com/mesidd/TheLivingBrain-Showcase/blob/main/acts/act-i-The-Feynaman-AI.md)
