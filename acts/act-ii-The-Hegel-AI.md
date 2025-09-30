@@ -67,7 +67,7 @@ The engine first mapped the core arguments and points of tension from both texts
 
 >The engine first deconstructed both arguments, mapping their core points of tension into its logical "mind map."
 
-<img width="2476" height="1330" alt="Nodes" src="https://github.com/user-attachments/assets/620eba9d-9cd4-4b5e-9363-53e45e72a360" />
+<img width="2476" height="1330" alt="knowledge_graph" src="https://github.com/user-attachments/assets/620eba9d-9cd4-4b5e-9363-53e45e72a360" />
 
 #### Thesis Table
 <img width="1482" height="1018" alt="thesis_table" src="https://github.com/user-attachments/assets/c8dba5b5-d81c-4c4e-96e0-deb90443b8d7" />
