@@ -1,11 +1,12 @@
 # The Living Brain: A Trilogy of Cognition
-### Foundational Cognitive Architecture For A Self-Evolving Digital Mind
 
->Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it's worth it in the end because once you get there, you can move mountains - Steve Jobs.
-
-<img width="2048" alt="Self Evolving Digital Mind" src="https://github.com/user-attachments/assets/13a51bf2-9991-40eb-9c4a-417f48ad0c85" />
+Foundational Cognitive Architecture For A Self-Evolving Digital Mind
 
 ---
+
+### Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it's worth it in the end because once you get there, you can move mountains - Steve Jobs
+
+<img width="2048" alt="Self Evolving Digital Mind" src="https://github.com/user-attachments/assets/13a51bf2-9991-40eb-9c4a-417f48ad0c85" />
 
 ## Vision: Architecting A Mind That Thinks
 
