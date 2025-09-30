@@ -3,6 +3,7 @@
 <img height="800" width="1200" alt="Feynman" src="https://github.com/user-attachments/assets/e2e55c2c-2537-460c-b995-08150ee170b0" />  
 
 # Act I: The Feynman AI — From Data to True Understanding
+
 ---
 
 # Experiment : Forging a Mind of Clarity   
@@ -58,7 +59,7 @@ Test whether the architecture could move beyond simple factual recall (the *what
 **The Source Material:**
 
 >Article: *The Early History of Instagram* (*The dangers of premature optimization*)
-<img width="2062" height="1616" alt="Sample_Article" src="https://github.com/user-attachments/assets/f114788b-1618-4faa-8fc6-79ccc204b890" />
+<img width="2062" height="1616" alt="input_article" src="https://github.com/user-attachments/assets/f114788b-1618-4faa-8fc6-79ccc204b890" />
 
 #### **Question 1: The Test of Recall ("What")**
 
