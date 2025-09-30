@@ -1,0 +1,11 @@
+fastapi
+pydantic
+uvicorn
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-chroma
+langchain-ollama
+langchain-neo4j
+pypdf
