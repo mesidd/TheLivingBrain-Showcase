@@ -2,7 +2,7 @@
 
 <img height="800" width="1200" alt="Da_Vinci" src="https://github.com/user-attachments/assets/c045cc6b-b089-4a0c-b394-ac4c521c649d" />
 
-# Act III: The Da Vinci AI — From Structure to Creative Serendipity
+# Act III: The Da Vinci AI — From Structure to Creative Serendipity 
 
 ---
 
