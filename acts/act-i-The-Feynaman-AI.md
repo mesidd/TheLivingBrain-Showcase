@@ -1,14 +1,17 @@
+### The first principle is that you must not fool yourself—and you are the easiest person to fool - Richard Feynman
+
 <img height="800" width="1200" alt="Feynman" src="https://github.com/user-attachments/assets/e2e55c2c-2537-460c-b995-08150ee170b0" />  
 
 # Act I: The Feynman AI — From Data to True Understanding
-
->The ideas associated with the problems of the development of science, as far as I can see by looking around me, are not of the kind that everyone appreciates - Richard Feynman.
+---
 
 # Experiment : Forging a Mind of Clarity   
 
 The journey to build a true thinking machine does not begin with code; it begins with a philosophical choice. My first guide on this path was not a computer scientist, but the great physicist **Richard Feynman**.  
 
 He famously believed that *you do not truly understand something until you can explain it simply.* This is a profound statement. It implies that true understanding is not the ability to recall a fact, but the ability to grasp its deep, causal relationships with everything around it.  
+
+---
 
 ➡️ **First Law of The Living Brain:** *AI must not just know; it must understand.*  
 
