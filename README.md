@@ -58,4 +58,4 @@ The successful integration of these laws is designed to create an intelligence t
 
 ---
 
-Next: [Act - I: The Feynman AI](https://github.com/mesidd/TheLivingBrain-Showcase/blob/main/acts/act-i-The-Feynaman-AI.md)
+**Next:** [Act - I: The Feynman AI](https://github.com/mesidd/TheLivingBrain-Showcase/blob/main/acts/act-i-The-Feynaman-AI.md)
